@@ -38,7 +38,7 @@
         <dd>{{person.nickname}}</dd>
         
         <dt>Birthday</dt>
-        <dd>{{person.birthdate}}</dd>
+        <dd>{{person.birthdate | date: "%d-%m-%Y"}}</dd>
       </dl>
   
       <p>{{person.bio}}</p>
