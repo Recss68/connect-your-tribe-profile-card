@@ -21,7 +21,11 @@ body {
   overflow: hidden;
   text-align: center;
   position: relative;
+}
+
+.expand {
   transform: scale(1.5);
+  transition: transform 0.3s ease-in-out;
 }
 
 .banner {

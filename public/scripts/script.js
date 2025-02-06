@@ -1,4 +1,4 @@
-const expandButton = document.querySelector('header button')
+const expandButton = document.querySelector('nav')
 expandButton.addEventListener('click', expand)
 
 function expand () {
