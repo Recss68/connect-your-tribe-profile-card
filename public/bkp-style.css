@@ -62,18 +62,18 @@ body {
 }
 
 .name {
-  font-size: 24px;
+  font-size: 25px;
   font-weight: bold;
   color: #333;
 }
 
 .role {
-  font-size: 16px;
+  font-size: 17px;
   color: #666;
 }
 
 .bio {
-  margin-top: 10px;
+  margin-top: 12px;
   color: #555;
 }
 
